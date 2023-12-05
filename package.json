@@ -4,7 +4,8 @@
     "test-login": "mocha login",
     "test-assignment": "mocha assignment",
     "test-courses": "mocha courses",
-    "test-calendar": "mocha calendar"
+    "test-calendar": "mocha calendar",
+    "test-quiz": "mocha quiz"
   },
   "dependencies": {
     "assert": "^2.1.0",
