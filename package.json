@@ -5,6 +5,8 @@
     "test-assignment": "mocha assignment",
     "test-courses": "mocha courses",
     "test-calendar": "mocha calendar",
+    "test-editprofile": "mocha editprofile",
+    "test-replyonforum": "mocha replyonforum",
     "test-quiz": "mocha quiz"
   },
   "dependencies": {
